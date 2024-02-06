@@ -11,6 +11,11 @@ export default function Home() {
             Week 2
           </span>
         </Link>
+        <Link href="/week-2">
+          <span style={{ cursor: 'pointer', color: 'blue', textDecoration: 'underline' }}>
+           <p>Week 3</p> 
+          </span>
+        </Link>
       </p>
     </main>
   );
